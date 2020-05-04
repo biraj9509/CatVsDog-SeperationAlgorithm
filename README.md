@@ -1,13 +1,13 @@
 # CatVsDog-SeperationAlgorithm
-Uses Python, OpenCV, Tkinter, pickle
-Python 64 bits is needed.
+Uses Python, OpenCV, Tkinter, pickle<br>
+Python 64 bits is needed.<br>
 necessary packages and their corresponding implementation are
-
-pip install openCv-python
-pip install sklearn
-pip install tkinter
-pip install Image
-pip install matplotlib
-pip install pickle
-pip install imutils
+<br>
+pip install openCv-python<br>
+<br>pip install sklearn
+<br>pip install tkinter
+<br>pip install Image
+<br>pip install matplotlib
+<br>pip install pickle
+<br>pip install imutils
 
